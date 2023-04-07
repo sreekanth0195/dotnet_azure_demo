@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xTxQUkonRWm7NLGdSB6/HZWuotX+9q9eYvonhd7kj8ERlIywrmh59u/LIP9RxfueeGc2unETB8fdvbYvMiCIRg==",
+  "dgSpecHash": "AC0O5yndNerepjQuRUXz8fvS5Cz3oDYBADNa6FeyG6oIa8MRqfZjRofXVsQ5RWXeJ0wgR4OlkBkGfHvrG3j91Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_hlwrld-master\\DotnetProject.csproj",
+  "projectFilePath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_demo\\DotnetProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

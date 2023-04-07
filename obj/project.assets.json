@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_hlwrld-master\\DotnetProject.csproj",
+      "projectUniqueName": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_demo\\DotnetProject.csproj",
       "projectName": "DotnetProject",
-      "projectPath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_hlwrld-master\\DotnetProject.csproj",
+      "projectPath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_demo\\DotnetProject.csproj",
       "packagesPath": "C:\\Users\\mitsind1028\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_hlwrld-master\\obj\\",
+      "outputPath": "C:\\Users\\mitsind1028\\source\\repos\\dotnet_azure_demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitsind1028\\AppData\\Roaming\\NuGet\\NuGet.Config",
